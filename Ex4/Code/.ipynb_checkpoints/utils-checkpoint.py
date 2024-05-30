@@ -1,5 +1,7 @@
 import numpy as np
 
+
+
 class Kernel:
     def __init__(self,noise=0):
         self.params=dict()
